@@ -106,7 +106,7 @@ section {
   display: block;
 }
 body {
-   /* 変更しちゃった */
+  background-color: black;
 }
 ol,
 ul {
